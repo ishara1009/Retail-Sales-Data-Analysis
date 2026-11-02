@@ -77,7 +77,7 @@ src/retail_analysis/  Reusable cleaning and analysis functions
 reports/figures/      Generated charts
 reports/tables/       Generated quality and business tables
 tests/                Small synthetic unit tests
-LEARNING_GUIDE_SI.md  Sinhala learning and interview guide
+LEARNING_GUIDE_SI.md  Beginner-friendly learning and interview guide
 ```
 
 ## Cleaning rules
